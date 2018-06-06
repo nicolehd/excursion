@@ -12,6 +12,13 @@ h2 {
   color: white;
 }
 
+h3 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 21px;
+  color: Gray;
+}
+
 body {
   text-align: center;
   background-color: black;
